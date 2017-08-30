@@ -10,6 +10,6 @@ $ pip install flask
 $ FLASK_APP=send_my_link.py flask run --host=0.0.0.0
 ```
 
-# LICENSE
+# License
 
 MIT
